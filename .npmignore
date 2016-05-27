@@ -17,6 +17,7 @@ Thumbs.db
 # Code / build
 .editor*
 .eslint*
+.babelrc
 .travis*
 bower_components
 coverage

@@ -7,6 +7,12 @@
     "type": "git",
     "url": "https://github.com/FormidableLabs/victory-core.git"
   },
+  "files": [
+    "dist",
+    "lib",
+    "src",
+    "native.js"
+  ],
   "author": "Brian Beck",
   "license": "MIT",
   "bugs": {
